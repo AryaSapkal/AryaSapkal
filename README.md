@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the HPP
 - 📫 How to reach me for the HPP: thehpparya@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm 18 years old.
+- ⚡ Fun fact: I like tennis.
 
 <!---
 AryaSapkal/AryaSapkal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
