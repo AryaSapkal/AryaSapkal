@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AryaSapkal
 - 👀 I’m interested in spearheading some impact in the world.
-- 🌱 I’m currently learning Python, Pytorch, MySQL, entrepreneurship, and writing.
-- 💞️ I’m looking to collaborate on the HPP
-- 📫 How to reach me for the HPP: thehpparya@gmail.com
+- 🌱 I’m currently learning Python, Pytorch, FastAPI, PostgreSQL, MySQL, and entrepreneurship.
+- 💞️ I’m looking to collaborate on Paper-To-Data
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like tennis.
 
